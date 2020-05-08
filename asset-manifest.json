@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fxempire/static/css/main.ecc9f2e3.chunk.css",
+    "main.css": "/fxempire/static/css/main.2faf0d00.chunk.css",
     "main.js": "/fxempire/static/js/main.19284de8.chunk.js",
     "main.js.map": "/fxempire/static/js/main.19284de8.chunk.js.map",
     "runtime-main.js": "/fxempire/static/js/runtime-main.7858a4b6.js",
@@ -9,17 +9,17 @@
     "static/js/2.81f1ca0a.chunk.js": "/fxempire/static/js/2.81f1ca0a.chunk.js",
     "static/js/2.81f1ca0a.chunk.js.map": "/fxempire/static/js/2.81f1ca0a.chunk.js.map",
     "index.html": "/fxempire/index.html",
-    "precache-manifest.7051ccdcc18a10f9de4e8707fcf48e66.js": "/fxempire/precache-manifest.7051ccdcc18a10f9de4e8707fcf48e66.js",
+    "precache-manifest.41bdf91dc9799adecd2ffb15b9d3a4d4.js": "/fxempire/precache-manifest.41bdf91dc9799adecd2ffb15b9d3a4d4.js",
     "service-worker.js": "/fxempire/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/fxempire/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.ecc9f2e3.chunk.css.map": "/fxempire/static/css/main.ecc9f2e3.chunk.css.map",
+    "static/css/main.2faf0d00.chunk.css.map": "/fxempire/static/css/main.2faf0d00.chunk.css.map",
     "static/js/2.81f1ca0a.chunk.js.LICENSE.txt": "/fxempire/static/js/2.81f1ca0a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7858a4b6.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.81f1ca0a.chunk.js",
-    "static/css/main.ecc9f2e3.chunk.css",
+    "static/css/main.2faf0d00.chunk.css",
     "static/js/main.19284de8.chunk.js"
   ]
 }
