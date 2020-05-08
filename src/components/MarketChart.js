@@ -1,6 +1,6 @@
 import React from 'react';
 import {LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer} from 'recharts';
-import { Spinner } from 'react-bootstrap';
+import { Alert } from 'react-bootstrap';
 
 import './MarketCharts.css'
 
@@ -18,7 +18,7 @@ function CustomizedAxisTick({x, y, stroke, payload}){
 export default function MarketChart({data}){
   return (
       data.length > 0 ?
-      <div className='main-chart' onWheel={(e)=>{console.log(e.deltaY)}} >
+      <div className='main-chart'>
         <ResponsiveContainer height='100%'>
           <LineChart 
             data={data}
@@ -50,6 +50,10 @@ export default function MarketChart({data}){
         </LineChart> 
       </ResponsiveContainer> 
     </div> :
-    <Spinner style={{marginTop:50}} animation="border" />
+    <div>
+      <Alert variant='info'>
+        No data..
+      </Alert>
+    </div>
   )
 }

@@ -3,8 +3,6 @@ import { Nav } from 'react-bootstrap';
 
 import { timestamps } from '../config'
 
-import 'bootstrap/dist/css/bootstrap.min.css';
-
 export default function Header({setTimeStampUrl}) {
 
   return (
