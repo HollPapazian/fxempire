@@ -40,6 +40,7 @@ export default function MarketChart({data}){
           />
           <CartesianGrid strokeDasharray="3 3"/>
           <Tooltip 
+            labelStyle = {{textAlign: 'center', fontWeight: 600}}
             labelFormatter={label => <span>{new Date(label).toLocaleDateString()}<br/>{new Date(label).toLocaleTimeString()}</span>}
           />
           <Legend verticalAlign='top' height={40}/>
