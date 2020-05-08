@@ -24,9 +24,14 @@ useEffect(()=>{
   .then((data) => {
     data = data.sort((a, b) => a.date - b.date)
     setData(data);
-    setLoading(false);
   });
 }, [timeStampUrl])
+
+useEffect(() => {
+  if (loading) {
+    setLoading(false);
+  }
+}, [data])
 
   return (
     <>
