@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fxempire/static/css/main.3af56fdf.chunk.css",
-    "main.js": "/fxempire/static/js/main.cc35ee2c.chunk.js",
-    "main.js.map": "/fxempire/static/js/main.cc35ee2c.chunk.js.map",
+    "main.js": "/fxempire/static/js/main.cdcbf3e4.chunk.js",
+    "main.js.map": "/fxempire/static/js/main.cdcbf3e4.chunk.js.map",
     "runtime-main.js": "/fxempire/static/js/runtime-main.7858a4b6.js",
     "runtime-main.js.map": "/fxempire/static/js/runtime-main.7858a4b6.js.map",
     "static/css/2.47e06e2e.chunk.css": "/fxempire/static/css/2.47e06e2e.chunk.css",
     "static/js/2.e8cbac6f.chunk.js": "/fxempire/static/js/2.e8cbac6f.chunk.js",
     "static/js/2.e8cbac6f.chunk.js.map": "/fxempire/static/js/2.e8cbac6f.chunk.js.map",
     "index.html": "/fxempire/index.html",
-    "precache-manifest.966326718ca9b4018a4097075cf66327.js": "/fxempire/precache-manifest.966326718ca9b4018a4097075cf66327.js",
+    "precache-manifest.63b7a905b561840f8ce3ffeba5a4eb93.js": "/fxempire/precache-manifest.63b7a905b561840f8ce3ffeba5a4eb93.js",
     "service-worker.js": "/fxempire/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/fxempire/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.3af56fdf.chunk.css.map": "/fxempire/static/css/main.3af56fdf.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.e8cbac6f.chunk.js",
     "static/css/main.3af56fdf.chunk.css",
-    "static/js/main.cc35ee2c.chunk.js"
+    "static/js/main.cdcbf3e4.chunk.js"
   ]
 }
